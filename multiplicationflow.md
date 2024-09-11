@@ -1,3 +1,6 @@
+# Multiplication Table Flowchart
+
+```mermaid
 flowchart TD
     A([START]) --> B[/Display welcome message and prompt/]
     B --> C[/Get user input/]
